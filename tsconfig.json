@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "noEmitOnError": true,
+        "target": "es3",
+        "outDir": "./js/",
+        "removeComments": true,
+        "noImplicitAny": true
+    },
+    "include": [
+        "./ts/"
+    ]
+}
